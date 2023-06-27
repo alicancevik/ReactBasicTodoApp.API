@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactBasicTodoApp.API", "ReactBasicTodoApp.API\ReactBasicTodoApp.API.csproj", "{FD5E23F1-FCD8-45E2-B0A5-77C34EAA923D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5E23F1-FCD8-45E2-B0A5-77C34EAA923D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5E23F1-FCD8-45E2-B0A5-77C34EAA923D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5E23F1-FCD8-45E2-B0A5-77C34EAA923D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5E23F1-FCD8-45E2-B0A5-77C34EAA923D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11431E90-1DB5-43E4-9C6F-6327C2E0851E}
+	EndGlobalSection
+EndGlobal
